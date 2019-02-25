@@ -1,2 +1,2 @@
 # hello-world
-All my worldwide projects in one place
+All my projects in one place
